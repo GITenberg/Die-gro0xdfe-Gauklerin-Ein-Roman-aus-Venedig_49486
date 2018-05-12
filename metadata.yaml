@@ -1,10 +1,16 @@
 _repo: Die-gro0xdfe-Gauklerin-Ein-Roman-aus-Venedig_49486
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49486-h/images/cover.jpg
 creator:
   author:
     agent_name: Brachvogel, Carry
     gutenberg_agent_id: '45361'
     url: http://www.gutenberg.org/2009/agents/45361
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49486#Die-gro0xdfe-Gauklerin-Ein-Roman-aus-Venedig
 gutenberg_issued: '2015-07-19'
 gutenberg_type: Text
 identifiers:
